@@ -22,3 +22,4 @@ exports.addNumbers = addNumbers;
 (async () => {
     console.log(await addNumbers(3, 4));
 })();
+//# sourceMappingURL=index.js.map
